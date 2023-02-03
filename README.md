@@ -2,3 +2,6 @@
 Labb 1
 
 Erik Was not Here
+ABCDE
+FGHIJ
+KLMNO
